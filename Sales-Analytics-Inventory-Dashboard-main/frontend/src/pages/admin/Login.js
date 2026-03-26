@@ -40,7 +40,7 @@ const AdminLogin = () => {
             <Card.Body className="p-5">
               <div className="text-center mb-4">
                 <h2 className="fw-bold text-primary-custom">{APP_CONFIG.name}</h2>
-                <p className="text-muted">Admin Login</p>
+                <p className="text-muted">Login Admin</p>
               </div>
 
               {error && <Alert variant="danger">{error}</Alert>}
