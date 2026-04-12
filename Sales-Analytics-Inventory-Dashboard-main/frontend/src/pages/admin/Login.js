@@ -69,7 +69,7 @@ const AdminLogin = () => {
                   <Form.Label>Pasword</Form.Label>
                   <Form.Control
                     type="password"
-                    placeholder="Enter admin password"
+                    placeholder="Enter Admin password"
                     {...register('password', {
                       required: 'Password is required'
                     })}
