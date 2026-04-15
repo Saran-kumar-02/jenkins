@@ -66,7 +66,7 @@ const AdminLogin = () => {
                 </Form.Group>
 
                 <Form.Group className="mb-4">
-                  <Form.Label>Pasword</Form.Label>
+                  <Form.Label>Password</Form.Label>
                   <Form.Control
                     type="password"
                     placeholder="Enter admin password"
